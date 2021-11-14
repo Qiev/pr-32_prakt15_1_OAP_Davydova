@@ -1,0 +1,7 @@
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\obj\Debug\two.csproj.AssemblyReference.cache
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\obj\Debug\two.csproj.CoreCompileInputs.cache
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\bin\Debug\two.exe.config
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\bin\Debug\two.exe
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\bin\Debug\two.pdb
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\obj\Debug\two.exe
+G:\course3\OAP\pr-32_prakt15_1_OAP_Davydova\two\two\obj\Debug\two.pdb
